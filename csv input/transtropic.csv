@@ -1,0 +1,3 @@
+constituent,"axial Young's modulus, E1 (GPa)","transverse Young's modulus, E2 (GPa)","axial shear modulus, G12 (GPa)","transverse shear modulus, G23 (GPa)","major Poisson's ratio, v12"
+Carbon,250,25,20,10,0.28
+Graphite,200,20,18,8,0.28
